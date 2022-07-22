@@ -1,2 +1,9 @@
-# prisma-reproducible-example-template
-Template repo for reproducable prisma bug examples
+# prisma-reproducible-example
+
+## Run
+
+```bash
+npm i
+npm run prisma:generate
+npm start
+```
